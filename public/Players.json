@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Arman Khan",
+    "img": "https://i.ibb.co/4ggHQYHk/arman-khan.jpg",
+    "country": "India",
+    "player_type": "Batsman",
+    "rating": 85,
+    "hand_bat": "Right",
+    "price": 1200000
+  },
+  {
+    "id": 2,
+    "name": "Lucas Smith",
+    "img": "https://i.ibb.co/TDH9t3J5/lucas-smith.jpg",
+    "country": "Australia",
+    "player_type": "Bowler",
+    "rating": 78,
+    "hand_bat": "Left",
+    "price": 950000
+  },
+  {
+    "id": 3,
+    "name": "Naveen Ul Haq",
+    "img": "https://i.ibb.co/N6G8Dy7j/naveen.jpg",
+    "country": "Pakistan",
+    "player_type": "All-Rounder",
+    "rating": 88,
+    "hand_bat": "Right",
+    "price": 1500000
+  },
+  {
+    "id": 4,
+    "name": "James O'Connor",
+    "img": "https://i.ibb.co/nMz4FrvL/james.jpg",
+    "country": "England",
+    "player_type": "Wicket-Keeper",
+    "rating": 82,
+    "hand_bat": "Right",
+    "price": 1100000
+  },
+  {
+    "id": 5,
+    "name": "Mustafiz Rahman",
+    "img": "https://i.ibb.co/9H7MrHYv/mustafiz.jpg",
+    "country": "Bangladesh",
+    "player_type": "Bowler",
+    "rating": 80,
+    "hand_bat": "Left",
+    "price": 890000
+  },
+  {
+    "id": 6,
+    "name": "Chris Mathews",
+    "img": "https://i.ibb.co/JW3B7wLn/mathew.jpg",
+    "country": "South Africa",
+    "player_type": "Batsman",
+    "rating": 76,
+    "hand_bat": "Right",
+    "price": 780000
+  },
+  {
+    "id": 7,
+    "name": "Ethan Walker",
+    "img": "https://i.ibb.co/SDr32gyM/ethen.jpg",
+    "country": "New Zealand",
+    "player_type": "Bowler",
+    "rating": 79,
+    "hand_bat": "Right",
+    "price": 900000
+  },
+  {
+    "id": 8,
+    "name": "Rahul Dev",
+    "img": "https://i.ibb.co/Jj1xhwLZ/rahul.jpg",
+    "country": "India",
+    "player_type": "Wicket-Keeper",
+    "rating": 81,
+    "hand_bat": "Right",
+    "price": 1100000
+  }
+]

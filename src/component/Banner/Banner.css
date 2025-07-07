@@ -1,0 +1,15 @@
+.bannerContainer {
+    min-height: 70vh;
+    background-color: #000000d8;
+    background-image: url('../../assets/bg-shadow.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+}
+.claimbtn {
+    padding: 15px;
+    background-color: #e2df07;
+    border-radius: 10px;
+    font-weight: bold;
+    position: relative;
+}
